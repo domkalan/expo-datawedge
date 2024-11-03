@@ -1,6 +1,6 @@
 {
   "name": "expo-datawedge",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Add Zebra DataWedge capabilities to your Android based Expo application.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
