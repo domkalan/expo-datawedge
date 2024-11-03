@@ -263,6 +263,9 @@ docs/pages/versions/*/react-native/*.diff
 # iOS
 **/ios/.xcode.env.local
 
+# builds
 /android/build
 
 /build
+
+/plugin/build
