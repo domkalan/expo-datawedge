@@ -1,0 +1,46 @@
+{
+  "name": "expo-datawedge",
+  "version": "0.1.0",
+  "description": "Add Zebra DataWedge capabilities to your Android based Expo application.",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "lint": "expo-module lint",
+    "test": "expo-module test",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "expo-module": "expo-module"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domkalan/expo-datawedge.git"
+  },
+  "keywords": [
+    "expo",
+    "datawedge",
+    "zebra",
+    "expo-datawedge",
+    "expo",
+    "barcode",
+    "barcode-scan",
+    "scanner",
+    "android",
+    "android-scanner",
+    "expo-barcode-scanner"
+  ],
+  "author": "domkalan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/domkalan/expo-datawedge/issues"
+  },
+  "homepage": "https://github.com/domkalan/expo-datawedge#readme",
+  "devDependencies": {
+    "expo-module-scripts": "^3.5.2"
+  },
+  "dependencies": {
+    "expo-modules": "^0.0.0",
+    "expo-modules-core": "^1.12.26"
+  }
+}
